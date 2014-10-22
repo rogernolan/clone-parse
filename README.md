@@ -8,10 +8,8 @@ create an identical copy of the schema and Roles (but no other data) in another 
 Installation
 ------------
 [Install node](http://nodejs.org/download/). Clone this repo and run `node install`
-
-    node install
     
-usage
+Usage
 -----
     node parser [options]
     
